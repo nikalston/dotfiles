@@ -111,6 +111,8 @@ fi
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
+alias update="sudo apt update && sudo apt upgrade -y"
+alias cls="clear"
 
 # Alias definitions.
 # You may want to put all your additions into a separate file like
